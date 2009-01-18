@@ -1,0 +1,110 @@
+
+                               Curriculum Vitae
+
+
+Costa Shapiro
+
+A software engineering professional (M.Sc. in CS) with over 10 years of industry experience in various areas.
+
+
+Contact
+
+Email:   constantine_shapiro@yahoo.com
+Phone:   +972-5-4767-5708
+
+
+Personal
+
+Birth:   4.10.1975 in the USSR (former)
+Citizen: Tel Aviv, Israel
+
+
+Skills
+
+Positions and Responsibilities
+    Senior / Integration / Infrastructure Engineer
+        design, implementation and maintenance of complex software / software-hardware systems (including real-time/embedded)
+        development of fundamental software/networking product technologies (including those of internal testing/design systems)
+        software/hardware system analysis
+        subsytem coordination from interface definition to integration testing
+    Individually Contributing / Team Working Engineer
+        full-circle development of hardware management systems, database applications, algoritmic modules and other software components
+        functional design and implementation of user interfaces (including web-based)
+
+Languages and Development Technologies
+    C/C++ - MFC, OWL, ACE, Turbo Vision
+    Java - EE technologies, AspectJ, Jini, etc.
+    PHP, Perl, Tcl/Tk, JavaScript, Visual Basic, Pascal, COBOL, Smalltalk, etc.
+
+Database Management Systems and Other Software Technologies
+    SQL - ORACLE, PostgreSQL, MS Access, etc.
+    ODBC, JDBC
+    Paradox/BDE, dBase, Clipper, etc.
+    Web technologies - SOAP, XSLT, etc.
+    CORBA, DCOM/ActiveX
+    Various Apache Jakarta technologies, JavaCC
+
+Operating Systems and Networking
+    Various internet protocols (HTTP, SMTP, IMAP, etc.)
+    UNIX family (FreeBSD, Linux, HP-UX, etc.), Windows family, VxWorks, proprietary RT/Embedded systems, DOS
+
+Hardware Programming and Protocols
+    x86/Pentium family, ARM, DSP's
+    PCI, flash memory, various hardware devices
+
+
+Education
+
+1999-2003: Technion (CSD) - M.Sc. in Computer Science (cum laude)
+    "Object-Oriented Implementation of Reconciliations" (Reconciliations in Java) thesis
+1995-1998: Technion (CSD) - B.A. in Computer Science (cum laude)
+1991-1994: BOSMAT (Automatic Data Processing course) - Speciality Matriculation Certificate
+
+
+Experience
+
+2005-2007: System Architect at independent web projects
+    technology development (interface definitions, system architecture, algorithm and database design, etc.)
+    - front-end web technologies, PHP5, Java EE technologies, Apache Jakarta technologies, JDBC, PostgreSQL, FreeBSD, common internet server software
+
+2002-2004: Senior Software Engineer at Intel (pre-silicon VLSI power estimation tool project, integrated VLSI CAD system, CAD Dept., Haifa)
+    VLSI technology domain experience (including system input/output specifications and real-data analysis)
+    subsystem architecture development
+    internal customer engineering support (VLSI projects)
+    cross-project coordination
+    independent software development and maintenance
+    - C++, VLSI knowledge, internal infrastructure framework, Tcl/Tk, Perl
+
+2000-2002: Software / Integration Engineer at QUALCOMM (several cellular communication related software-hardware projects, Haifa)
+    CDMA technology domain experience (both parties plus simulation/testing)
+    full-circle hardware driver framework development (complex communication interface device)
+    distributed testing/simulation infrastructure development, maintenance and refactoring
+    cell-phone system integration (including mid-layer embedded communication software development)
+    - RT/Embedded systems, VxWorks, Tornado, CORBA, Visual C++, ARM, proprietary DSP, hardware-level protocols (cPCI, flash memory, etc), Win32, Perl
+
+1999-2000: Software Developer (part-time) at Extent (former, now owned by Alepo) (Billing & Mgmt. RADIUS ISP web-managed server project, Ramat Gan)
+    development of custom management and report software modules
+    - cross-platform C++, SQL (various DBMS's), Apache HTTP server, proprietary front-end template framework
+
+1998-1999: Teaching Assistant at Technion (basic CS courses, CSD, CEESD, Haifa)
+1997-1998: Software Developer (part-time) at NetManage (several internet client projects, Haifa)
+    common internet protocols experience (email, ftp, telnet, etc)
+    client software module development (including GUI components)
+    infrastructure works
+    - Visual C++, MFC, DCOM/ActiveX, range of internet protocols, Win32, other application technologies
+
+1995-1997: Software Developer (part-time) at Asher Space Research Institute, Technion (TechSat micro­satellite project, Haifa)
+    design and implementation of complex physical algorithm modules
+    implementation of telemetry-processing modules (including database design and usage
+    implementation and integration hardware driver modules (GPS, etc.)
+    various software development and maintenance tasks (including implementation of satellite management modules of several control levels)
+    - C/C++, x86 assembly, Visual Basic, Paradox/BDE, various hardware interface protocols, Win32 (including GUI)
+
+1992-1993: Software Developer (part-time) at Technion's Center for Promotion of Teaching (A project of robotic manipulator based educational aid for spatial reasoning development course, Haifa)
+    design and implementation of robotic manipulator software (including GUI, command language, robot control and simulation)
+    - Pascal, Turbo Vision, x86 assembly, proprietary robot interface protocol, DOS
+
+
+--------
+The information on this page is a private property provided solely for personal viewing, and it can not be used otherwise without permission.
+All trademarks used on this page are the property of their respectful owners If You have any problem viewing/printing this page, please drop me a line. Thank you.
