@@ -4,6 +4,7 @@
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <style type="text/css">
+    /* The style is totally free to use, if you like it :) */
     body {
       width: 80ex;
       margin: 1em auto;
@@ -49,7 +50,7 @@
       width: 7ex;
     }
     dd {
-      padding: 0.25;
+      padding: 0.25em;
       margin-left: 13ex;
     }
     div.left dd {
@@ -65,6 +66,13 @@
     }
     ul.pl li {
       padding: .25em;
+    }
+    div.footdate {
+      clear: both;
+      margin-top: 3em;
+      padding-top: .5em;
+      font-size: small;
+      text-align: right;
     }
     div.footrem {
       clear: both;
@@ -121,7 +129,7 @@
   <h1>Curriculum Vitae</h1>
   <div class="section">
     <h2><acronym title="Constantine">Costa</acronym> Shapiro</h2>
-      A software engineering professional (<acronym title="Master of Science">M.Sc.</acronym> in <acronym title="Computer Science">CS</acronym>) with over 10 years of industry experience in various areas.</div>
+      A software engineering professional (<acronym title="Master of Science">M.Sc.</acronym> in <acronym title="Computer Science">CS</acronym>) with over 10 years of industry experience in various areas, interested in problem-solving software R&amp;D</div>
   <div class="section">
     <div class="left">
       <h3>Contact</h3>
@@ -132,7 +140,7 @@
       <h3>Personal</h3>
       <dl>
         <dt>Birth</dt><dd><acronym title="Saturday, October 4, 1975">4.10.1975</acronym> in the <acronym title="Union of Soviet Socialist Republics">USSR</acronym><small>&nbsp;(former)</small></dd>
-        <dt>Citizen</dt><dd>Israel</dd></dl></div></div>
+        <dt>Citizen</dt><dd>Tel Aviv, Israel</dd></dl></div></div>
   <div class="section">
     <h3>Skills</h3>
     <div>
@@ -140,29 +148,29 @@
       <ul class="pl">
         <li>Senior / Integration / Infra&shy;structure Engineer
           <ul class="pl">
-            <li>design, implementation and maintenance of complex software / software-hardware systems (including real-time/embedded)</li>
-            <li>development of fundamental software/networking product technologies (including those of internal testing/design systems)</li>
-            <li>software/hardware system analysis</li>
-            <li>subsytem coordination from interface definition to integration testing</li></ul></li>
+            <li>design, implementation, integration and maintenance of complex software / software-hardware systems (including web-based, networking, real-time/embedded)</li>
+            <li>development of fundamental software/networking product technologies (including company-internal testing/analytics/design systems)</li>
+            <li>software/hardware system analysis and problem solving</li>
+            <li>subsystem development coordination from interface definition to integration testing</li></ul></li>
         <li>Individually Contributing / Team Working Engineer
           <ul class="pl">
-            <li>full-circle development of hardware management systems, database applications, algoritmic modules and other software components</li>
-            <li>functional design and implementation of user interfaces (including web-based)</li></ul></li></ul></div>
+            <li>full-circle development of hardware management systems, database applications, algorithmic modules and other software components</li>
+            <li>functional design and implementation of user interfaces (including graphical and web-based)</li></ul></li></ul></div>
     <div>
       <div class="left">
         <div>
           <h4>Languages and Development Technologies</h4>
           <ul class="pl">
-            <li>C/C++ &ndash; <acronym title="Microsoft Foundation Classes">MFC</acronym>, <acronym title="Object Windows Library">OWL</acronym>, <acronym title="Adaptive Communication Environment">ACE</acronym>, Turbo&nbsp;Vision</li>
+            <li>C/C++ &ndash; Boost, <acronym title="Microsoft Foundation Classes">MFC</acronym>, <acronym title="Object Windows Library">OWL</acronym>, <acronym title="Adaptive Communication Environment">ACE</acronym>, Turbo&nbsp;Vision</li>
             <li>Java &ndash; <acronym title="Enterprise Edition">EE</acronym> technologies, AspectJ, Jini, etc.</li>
-            <li>PHP, Perl, Tcl/Tk, JavaScript, Visual&nbsp;Basic, Pascal, COBOL, Smalltalk, etc.</li></ul></div>
+            <li>PHP, Perl, Tcl/Tk, JavaScript, Visual&nbsp;Basic, Pascal, COBOL, Ruby, etc.</li></ul></div>
         <div>
           <h4>Database Management Systems and Other Software Technologies</h4>
           <ul class="pl">
-            <li><acronym title="Structured Query Language">SQL</acronym> &ndash; ORACLE, PostgreSQL, MS&nbsp;Access, etc.</li>
-            <li><acronym title="Open Database Connectivity">ODBC</acronym>, <acronym title="Java Database Connectivity">JDBC</acronym></li>
+            <li><acronym title="Structured Query Language">SQL</acronym> &ndash; MS&nbsp;Server, ORACLE, PostgreSQL, MS&nbsp;Access, etc.</li>
+            <li><acronym title="Open Database Connectivity">ODBC</acronym>, <acronym title="Java Database Connectivity">JDBC</acronym>, etc.</li>
             <li>Paradox/<acronym title="Borland Database Engine">BDE</acronym>, dBase, Clipper, etc.</li>
-            <li>Web technologies &ndash; <acronym title="Simple Object Access Protocol">SOAP</acronym>, <acronym title="Extensible Stylesheet Language Transformations">XSLT</acronym>, etc.</li>
+            <li>Web technologies &ndash; <acronym title="Representational State Transfer">REST</acronym><acronym title="Simple Object Access Protocol">SOAP</acronym>, <acronym title="Extensible Markup Language">XML</acronym>/<acronym title="Extensible Stylesheet Language Transformations">XSLT</acronym></li>
             <li><acronym title="Common Object Request Broker Architecture">CORBA</acronym>, <acronym title="Distributed Component Object Model">DCOM</acronym>/ActiveX</li>
             <li>Various Apache Jakarta technologies, <acronym title="Java Compiler Compiler">JavaCC</acronym></li></ul></div></div>
       <div class="rite">
@@ -187,10 +195,16 @@
   <div class="section">
     <h3>Experience</h3>
     <dl>
-        <dt>2005&ndash;2007</dt><dd>System Architect at independent web projects
+        <dt>2007&ndash;2009</dt><dd>Senior Software Engineer at  <a href="http://www.nielsen-online.com/" title="Nielsen Online - A global leader in Internet media and market research">Nielsen Online</a> (projects on interactive distributed systems for large-volume text-mining analysis, Herzliya)
+        <ul class="pl">
+          <li>full engineering maintenance of the company's core online Consumer-Generated Media analysis project</li>
+          <li>stability, maintainability and performance problems solving on component and system levels</li>
+          <li>&ndash; Java&nbsp;<acronym title="Enterprise Edition">EE</acronym> &amp; Apache Jakarta technologies (inc. Lucene), C++/Boost, SQL & custom <acronym title="Database Management System">DBMS</acronym>'s, <acronym title="Extensible Markup Language">XML</acronym> processing, standard & custom client-server transports, <acronym title="Bourne-again shell">bash</acronym> & other scripting</li></ul></dd>
+        <dt>2005&ndash;2007</dt><dd>Technological Leader and Founder at an information management web service start-up project
         <ul class="pl">
           <li>technology development (interface definitions, system architecture, algorithm and database design, etc.)</li>
-          <li>&ndash; front-end web technologies, PHP5, Java&nbsp;<acronym title="Enterprise Edition">EE</acronym> technologies, Apache Jakarta technologies, <acronym title="Java Database Connectivity">JDBC</acronym>, PostgreSQL, FreeBSD, common internet server software</li></ul></dd>
+          <li>start-up-related activities</li>
+          <li>&ndash; front-end web technologies, PHP5, Java&nbsp;<acronym title="Enterprise Edition">EE</acronym> &amp; Apache Jakarta technologies, <acronym title="Java Database Connectivity">JDBC</acronym>, PostgreSQL, FreeBSD, common internet server software</li></ul></dd>
         <dt>2002&ndash;2004</dt><dd>Senior Software Engineer at <a href="http://www.intel.com/" title="Welcome to Intel">Intel</a> (pre-silicon <acronym title="Very-large-scale integration">VLSI</acronym> power estimation tool project, integrated <acronym title="Very-large-scale integration">VLSI</acronym> <acronym title="Computer-aided design">CAD</acronym> system, CAD Dept., Haifa)
         <ul class="pl">
           <li><acronym title="Very-large-scale integration">VLSI</acronym> technology domain experience (including system input/output specifications and real-data analysis)</li>
@@ -209,7 +223,7 @@
         <dt>1999&ndash;2000</dt><dd>Software Developer <small>(part-time)</small> at <a href="http://www.extent.com/" title="Extent's corporate website">Extent</a><small>&nbsp;(former, now owned by <a href="http://www.alepo.com/" title="Alepo's corporate website">Alepo</a>)</small> (Billing&nbsp;&amp; Mgmt. <acronym title="Remote Authentication Dial In User Service">RADIUS</acronym> <acronym title="Internet Service Provider">ISP</acronym> web-managed server project, Ramat Gan)
         <ul class="pl">
           <li>development of custom management and report software modules</li>
-          <li>&ndash; cross-platform C++, <acronym title="Structured Query Language">SQL</acronym> (various DBMS's), Apache <acronym title="Hypertext Transfer Protocol">HTTP</acronym> server, proprietary front-end template framework</li></ul></dd>
+          <li>&ndash; cross-platform C++, <acronym title="Structured Query Language">SQL</acronym> (various <acronym title="Database Management System">DBMS</acronym>'s), Apache <acronym title="Hypertext Transfer Protocol">HTTP</acronym> server, proprietary front-end template framework</li></ul></dd>
         <dt>1998&ndash;1999</dt><dd>Teaching Assistant at <a href="http://www.technion.ac.il/" title="Technion - Israel Institute of Technology"><acronym title="Technion&nbsp;&ndash; Israel Institute of Technology, Haifa">Technion</acronym></a>&nbsp;(basic <acronym title="Computer Science">CS</acronym> courses, <a href="http://www.cs.technion.ac.il/" title="Computer Science Department, Technion"><acronym title="Computer Science Department">CSD</acronym></a>, <a href="http://cont-edu.technion.ac.il/" title="Website of the Division of Continuing Education and External Studies (Hebrew)"><acronym title="The Division of Continuing Education and External Studies">CEESD</acronym></a>, Haifa)</dd>
         <dt>1997&ndash;1998</dt><dd>Software Developer <small>(part-time)</small> at <a href="http://www.netmanage.com/" title="NetManage's corporate website">NetManage</a> (several internet client projects, Haifa)
         <ul class="pl">
@@ -228,7 +242,31 @@
         <ul class="pl">
           <li>design and implementation of robotic manipulator software (including <acronym title="Graphical User Interface">GUI</acronym>, command language, robot control and simulation)</li>
           <li>&ndash; Pascal, Turbo&nbsp;Vision, x86 assembly, proprietary robot interface protocol, DOS</li></ul></dd></dl></div>
+  <div class="section">
+    <h3>Interests</h3>
+      <ul class="pl">
+        <li>Ruby-based development
+          <ul class="pl">
+            <li>To me, it is just the best industry-accepted tool for expressing software reasoning which allows to stay focused on the task while maintaining overall development efficiency.
+                It takes the whole development experience to a new level, when practically appropriate, of course.</li></ul></li>
+        <li>User-oriented development
+          <ul class="pl">
+            <li>Usability-driven design, on both human user and system component levels is my preference for successful and enjoyable development.
+                It is important for me to assess different aspects of usability (such as fitness for a particular purpose versus universal reuse potential) regularly in the software development cycle.</li></ul></li>
+        <li>Component-pragmatic development
+          <ul class="pl">
+            <li>When developing any product-oriented system, I support agile component evolvement through functionally defined iterations (while tracking all the decisions and activity) to keep things team-maintainable at all times.</li></ul></li>
+        <li>Open Source involvment
+          <ul class="pl">
+            <li>It seems to me that most companies using and contributing to open-source projects just benefit from the interaction.</li></ul></li>
+        <li>Social and personal segment software
+          <ul class="pl">
+            <li>After many years closely tracking the information technologies development, I've gained both experience and hunger for building useful and accessible services.</li></ul></li></ul></div>
+
+  <div class="footdate">
+    January 2009</div>
   <div class="footrem">
     The information on this page is a private property provided solely for personal viewing, and it can not be used otherwise without permission.<br/>
     All trademarks used on this page are the property of their respectful owners<br/>
-    If You have any problem viewing/printing this page, please <a href="&#109;&#x61;&#105;&#108;&#116;&#x6f;&#x3a;&#x63;&#111;&#x6e;&#115;&#x74;&#x61;&#110;&#x74;&#105;&#110;&#101;&#95;&#115;&#x68;&#97;&#112;&#x69;&#114;&#x6f;&#64;&#121;&#97;&#x68;&#x6f;&#111;&#x2e;&#x63;&#x6f;&#109;?subject=Resume%20viewing%20problem" title="Compose an email to &#x63;&#111;&#x6e;&#115;&#x74;&#x61;&#110;&#x74;&#105;&#110;&#101;&#95;&#115;&#x68;&#97;&#112;&#x69;&#114;&#x6f;&#64;&#121;&#97;&#x68;&#x6f;&#111;&#x2e;&#x63;&#x6f;&#109;">drop me a line</a>. Thank you.</div></body></html>
+    If You have any problem viewing/printing this page, please <a href="&#109;&#x61;&#105;&#108;&#116;&#x6f;&#x3a;&#x63;&#111;&#x6e;&#115;&#x74;&#x61;&#110;&#x74;&#105;&#110;&#101;&#95;&#115;&#x68;&#97;&#112;&#x69;&#114;&#x6f;&#64;&#121;&#97;&#x68;&#x6f;&#111;&#x2e;&#x63;&#x6f;&#109;?subject=Resume%20viewing%20problem" title="Compose an email to &#x63;&#111;&#x6e;&#115;&#x74;&#x61;&#110;&#x74;&#105;&#110;&#101;&#95;&#115;&#x68;&#97;&#112;&#x69;&#114;&#x6f;&#64;&#121;&#97;&#x68;&#x6f;&#111;&#x2e;&#x63;&#x6f;&#109;">drop me a line</a>. Thank you.<br/>
+    An updated copy of this document in different formats can be obtained from <a href="http://geocities.com/constantine_shapiro/" title="Costa Shapiro - Resume">http://geocities.com/constantine_shapiro/</a></div></body></html>

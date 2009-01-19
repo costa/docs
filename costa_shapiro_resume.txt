@@ -4,7 +4,7 @@
 
 Costa Shapiro
 
-A software engineering professional (M.Sc. in CS) with over 10 years of industry experience in various areas.
+A software engineering professional (M.Sc. in CS) with over 10 years of industry experience in various areas, interested in problem-solving software R&D
 
 
 Contact
@@ -23,24 +23,24 @@ Skills
 
 Positions and Responsibilities
     Senior / Integration / Infrastructure Engineer
-        design, implementation and maintenance of complex software / software-hardware systems (including real-time/embedded)
-        development of fundamental software/networking product technologies (including those of internal testing/design systems)
-        software/hardware system analysis
-        subsytem coordination from interface definition to integration testing
+        design, implementation, integration and maintenance of complex software / software-hardware systems (including web-based, networking, real-time/embedded)
+        development of fundamental software/networking product technologies (including company-internal testing/analytics/design systems)
+        software/hardware system analysis and problem solving
+        subsystem development coordination from interface definition to integration testing
     Individually Contributing / Team Working Engineer
-        full-circle development of hardware management systems, database applications, algoritmic modules and other software components
-        functional design and implementation of user interfaces (including web-based)
+        full-circle development of hardware management systems, database applications, algorithmic modules and other software components
+        functional design and implementation of user interfaces (including graphical and web-based)
 
 Languages and Development Technologies
-    C/C++ - MFC, OWL, ACE, Turbo Vision
+    C/C++ - Boost, MFC, OWL, ACE, Turbo Vision
     Java - EE technologies, AspectJ, Jini, etc.
-    PHP, Perl, Tcl/Tk, JavaScript, Visual Basic, Pascal, COBOL, Smalltalk, etc.
+    PHP, Perl, Tcl/Tk, JavaScript, Visual Basic, Pascal, COBOL, Ruby, etc.
 
 Database Management Systems and Other Software Technologies
-    SQL - ORACLE, PostgreSQL, MS Access, etc.
-    ODBC, JDBC
+    SQL - MS Server, ORACLE, PostgreSQL, MS Access, etc.
+    ODBC, JDBC, etc.
     Paradox/BDE, dBase, Clipper, etc.
-    Web technologies - SOAP, XSLT, etc.
+    Web technologies - REST, SOAP, XML/XSLT
     CORBA, DCOM/ActiveX
     Various Apache Jakarta technologies, JavaCC
 
@@ -63,8 +63,14 @@ Education
 
 Experience
 
-2005-2007: System Architect at independent web projects
+2007-2009: Senior Software Engineer at Nielsen Online (projects on interactive distributed systems for large-volume text-mining analysis, Herzliya)
+    full engineering maintenance of the company's core online Consumer-Generated Media analysis project
+    stability, maintainability and performance problems solving on component and system levels
+    - J2EE & Apache Jakarta technologies (inc. Lucene), C++/Boost, SQL & custom DBMSs, XML processing, standard & custom client-server transports, bash & other scripting
+
+2005-2007: Technological Leader and Founder at an information management web service start-up project
     technology development (interface definitions, system architecture, algorithm and database design, etc.)
+    start-up-related activities
     - front-end web technologies, PHP5, Java EE technologies, Apache Jakarta technologies, JDBC, PostgreSQL, FreeBSD, common internet server software
 
 2002-2004: Senior Software Engineer at Intel (pre-silicon VLSI power estimation tool project, integrated VLSI CAD system, CAD Dept., Haifa)
@@ -105,6 +111,27 @@ Experience
     - Pascal, Turbo Vision, x86 assembly, proprietary robot interface protocol, DOS
 
 
+Interests
+
+Ruby-based development
+    To me, it is just the best industry-accepted tool for expressing software reasoning which allows to stay focused on the task while maintaining overall development efficiency. It takes the whole development experience to a new level, when practically appropriate, of course.
+
+User-oriented development
+    Usability-driven design, on both human user and system component levels is my preference for successful and enjoyable development. It is important for me to assess different aspects of usability (such as fitness for a particular purpose versus universal reuse potential) regularly in the software development cycle.
+
+Component-pragmatic development
+    When developing any product-oriented system, I support agile component evolvement through functionally defined iterations (while tracking all the decisions and activity) to keep things team-maintainable at all times.
+
+Open Source involvment
+    It seems to me that most companies using and contributing to open-source projects just benefit from the interaction.
+
+Social and personal segment software
+    After many years closely tracking the information technologies development, I've gained both experience and hunger for building useful and accessible services.
+
+
+                                                           January 2009
+
 --------
 The information on this page is a private property provided solely for personal viewing, and it can not be used otherwise without permission.
 All trademarks used on this page are the property of their respectful owners If You have any problem viewing/printing this page, please drop me a line. Thank you.
+An updated copy of this document in different formats can be obtained from http://geocities.com/constantine_shapiro/
